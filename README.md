@@ -6,7 +6,7 @@ I'm **Muhammad Irsyad Dimas Abdillah**, a college student at **Politeknik Negeri
 
 - **Version Control:**
   ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+  ![GitHub](https://cdn3d.iconscout.com/3d/free/preview/free-github-3d-icon-download-in-png-blend-fbx-gltf-file-formats--twitter-logo-social-media-pack-logos-icons-7516837.png?f=webp&amp;h=700 1x, https://cdn3d.iconscout.com/3d/free/preview/free-github-3d-icon-download-in-png-blend-fbx-gltf-file-formats--twitter-logo-social-media-pack-logos-icons-7516837.png?f=webp&amp;)
   
 - **Development Tools:**
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
