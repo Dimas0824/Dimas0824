@@ -24,7 +24,3 @@ I'm **Muhammad Irsyad Dimas Abdillah**, a college student at **Politeknik Negeri
 </div>
 
 ---
-
-### 🌐 Visitors
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Dimas0824.Dimas0824)
