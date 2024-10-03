@@ -19,7 +19,7 @@ I'm **Muhammad Irsyad Dimas Abdillah**, a college student at **Politeknik Negeri
 ### ⚡ GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dimas0824&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dimas0824&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="GitHub Stats"/><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimas0824&layout=compact&theme=tokyonight" width="48%" alt="Top Languages"/>
 </div>
 
