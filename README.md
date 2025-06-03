@@ -1,4 +1,8 @@
-# 🚀 Muhammad Irsyad Dimas Abdillah
+<div align="center">
+
+# Muhammad Irsyad Dimas Abdillah
+
+</div>
 
 <div align="center">
   
@@ -145,7 +149,7 @@ interests:
 
 <div align="center">
   
-  <img src="img/image.png" alt="Profile Banner" />
+  <img src="img/image.png" alt="Profile Banner" width="250" style="max-width:100%; height:auto;" />
   
   **Thanks for visiting! Let's build something amazing together! 🚀**
   
