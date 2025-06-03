@@ -71,9 +71,9 @@ const developer = {
 |:----------:|:----------------|:---------------|:--------:|
 | **MAGNET** | Platform sistem informasi magang dengan sistem pendukung keputusan untuk rekomendasi tempat magang terbaik | `Laravel 10` `Livewire` `Flux UI` `MySQL` | [![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/Maju-Lancar/MAGNET-Magang-Network-And-Tracking) |
 | **Personal Website** | Portfolio website pribadi dengan design modern dan responsive | `Laravel` `PHP` `Bootstrap` `MySQL` `Filament` | [![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/Dimas0824/PersonalWeb) |
-| **Sistem Kasir Cafe** | Sistem kasir untuk cafe dengan fitur manajemen menu, stok, diskon, dan laporan penjualan | `PHP` `MySQL` `JavaScript` `Bootstrap` | [![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/HaikalMuhammadRafli/Sistem-Kasir_kel01) |
-| **TikTok Text Mining** | Analisis sentimen pada posting TikTok menggunakan pendekatan lexicon-based dengan TF-IDF | `Python` `Jupyter Notebook` `NLP` `Text Mining` | [![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/FarrelAD/Simple-TikTok-Post-Text-Mining) |
-| **Fuzzy Logic Calculator** | Sistem perhitungan subsidi petani berdasarkan luas lahan dan produksi padi menggunakan Fuzzy Logic | `Python` `Jupyter Notebook` `Mamdani` `Sugeno` | [![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/FarrelAD/Calculate-Subsidy-With-Fuzzy-Logic) |
+| **Sistem Kasir Cafe** | Sistem kasir untuk cafe dengan fitur manajemen menu, stok, diskon, dan laporan penjualan | `Java` | [![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/HaikalMuhammadRafli/Sistem-Kasir_kel01) |
+| **TikTok Text Mining** | Analisis sentimen pada posting TikTok menggunakan pendekatan lexicon-based dengan TF-IDF | `Python` `NLP` `Text Mining` | [![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/FarrelAD/Simple-TikTok-Post-Text-Mining) |
+| **Fuzzy Logic Calculator** | Sistem perhitungan subsidi petani berdasarkan luas lahan dan produksi padi menggunakan Fuzzy Logic | `Python` `Mamdani` `Sugeno` | [![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/FarrelAD/Calculate-Subsidy-With-Fuzzy-Logic) |
 
 </div>
 
