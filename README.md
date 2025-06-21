@@ -45,12 +45,12 @@ console.log("🎉 Welcome to my digital playground!");
 
 <div align="center">
 
-🎪 **Fun Facts About Me:** 
-- 💬 Ask me about **PHP, Laravel, Database Design** (I promise I won't bite! 😄)  
-- ⚡ **Super Power:** I love automating development workflows (because lazy = efficient! 🤖)
-- 🎯 **Secret Mission:** Making databases cry tears of joy with perfect optimization 
-- 🍕 **Fuel:** Snacks, Coffee, and Stack Overflow (the holy trinity!)
-- 🎮 **When Not Coding:** Probably thinking about coding... or eating 🍔
+🎪 **Fun Facts About Me:** <br>
+💬 Ask me about **PHP, Laravel, Database Design** (I promise I won't bite! 😄)  <br>
+⚡ **Super Power:** I love automating development workflows (because lazy = efficient! 🤖) <br>
+🎯 **Secret Mission:** Making databases cry tears of joy with perfect optimization <br>
+🍕 **Fuel:** Snacks, Coffee, and Stack Overflow (the holy trinity!) <br>
+🎮 **When Not Coding:** Probably thinking about coding... or eating 🍔 <br>
 
 </div>
 
@@ -112,14 +112,6 @@ console.log("🎉 Welcome to my digital playground!");
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dimas0824&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C3D1D9"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimas0824&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C3D1D9"/>
-  
-</div>
-
-<div align="center">
-
-### 🔥 *"My Coding Streak (Yes, I'm on fire!):"* 
-  
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dimas0824&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=C3D1D9&sideNums=C3D1D9&currStreakLabel=00D9FF&sideLabels=C3D1D9&dates=8B949E"/>
   
 </div>
 
@@ -195,10 +187,10 @@ random_facts:
   - 🎮 I believe coding is just puzzle-solving with extra steps
 ```
 
-### 🎪 **More Silly Stats:**
-- ☕ **Coffee Consumed:** Enough to fuel a small rocket 🚀
-- 🐛 **Bugs Created:** 99.9% (the 0.1% were features in disguise!)
-- 😴 **Dreams About Code:** Every. Single. Night.
+### 🎪 **More Silly Stats:** <br>
+☕ **Coffee Consumed:** Enough to fuel a small rocket 🚀 <br>
+🐛 **Bugs Created:** 99.9% (the 0.1% were features in disguise!) <br>
+😴 **Dreams About Code:** Every. Single. Night.
   
 </div>
 
@@ -225,6 +217,6 @@ random_facts:
   **🎭 "Code is like humor. When you have to explain it, it's bad."**  
   *– Cory House*
   
-  <sub>Made with ❤️, ☕, and probably too much 🍕</sub>
+  <sub>Made with ❤️, 🍕, and probably too much ☕ </sub>
   
 </div>
