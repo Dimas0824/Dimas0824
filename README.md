@@ -11,8 +11,6 @@
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=🎓+Politeknik+Negeri+Malang+Student;🔥+Backend+Developer+Extraordinaire;📊+Database+Whisperer;💻+Code+Craftsman;🚀+Building+The+Future,+One+Line+At+A+Time!)
   
   [![Profile Views](https://komarev.com/ghpvc/?username=Dimas0824&color=00D9FF&style=flat-square&label=👀+Profile+Stalkers)](https://github.com/Dimas0824)
-  [![GitHub followers](https://img.shields.io/github/followers/Dimas0824?label=🧑‍🤝‍🧑+Awesome+Followers&style=flat-square&color=00D9FF)](https://github.com/Dimas0824)
-  [![GitHub stars](https://img.shields.io/github/stars/Dimas0824?label=⭐+Star+Collector&style=flat-square&color=00D9FF)](https://github.com/Dimas0824)
   
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Dimas0824" alt="CoDiNg RoCkStAr" width="60"/> 
   
