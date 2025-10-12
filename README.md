@@ -171,6 +171,35 @@ Model forecasting time series untuk IHSG menggunakan LSTM Neural Networks dengan
 
 ---
 
+### Streamlytics Netflix — User Segmentation
+
+```python
+from sklearn.cluster import KMeans, DBSCAN
+from sklearn.decomposition import PCA
+from sklearn.manifold import TSNE
+import pandas as pd
+import numpy as np
+
+class StreamlyticsNetflix:
+    def __init__(self, data):
+        self.data = data
+        self.kmeans = KMeans(n_clusters=5, random_state=42)
+        self.dbscan = DBSCAN(eps=0.5, min_samples=5)
+
+    def run(self):
+        X = (self.data.select_dtypes(include=np.number) - self.data.mean()) / self.data.std()
+        self.data['KMeans'] = self.kmeans.fit_predict(X)
+        self.data['DBSCAN'] = self.dbscan.fit_predict(X)
+        return self.data
+```
+**Stack**: Python, Scikit-learn, Pandas, NumPy
+
+Segmentasi pengguna Netflix menggunakan K-Means dan DBSCAN untuk mengelompokkan perilaku menonton dan preferensi genre.
+
+[Lihat Repository →](https://github.com/Dimas0824/streamlytics-netflix)
+
+---
+
 ### Sistem Kasir Cafe
 
 ```java
@@ -206,21 +235,6 @@ Sistem POS untuk manajemen kafe mencakup menu, inventori, dan analitik penjualan
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dimas0824&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF" alt="GitHub Streak" />
 </p>
-
----
-
-## Kontak
-
-```sql
-SELECT 'Email' as contact_type, '2341720088@student.polinema.ac.id' as value
-UNION ALL
-SELECT 'Instagram' as contact_type, '@not.samiddd' as value;
-```
-
-Jika anda ingin berkolaborasi atau berdiskusi, hubungi saya melalui:
-
-- Email: 2341720088@student.polinema.ac.id
-- Instagram: [@not.samiddd](https://www.instagram.com/not.samiddd)
 
 ---
 
